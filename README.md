@@ -24,11 +24,9 @@ The translated text appears in the Destination Text box.
 ## OUTPUT SCREENSHOTS
 <img width="400" height="500" alt="Screenshot 2025-11-23 171130" src="https://github.com/user-attachments/assets/8157e831-2868-4ed8-ae42-960d0ed81630" />
 <img width="400" height="500" alt="Screenshot 2025-11-23 171432" src="https://github.com/user-attachments/assets/a773f305-8574-4eb9-bf58-fd7cbce5c324" />
-<br></br>
+
+## OUTPUT SCREEN-RECORDING 
 https://github.com/user-attachments/assets/e28cb836-370e-4472-8a75-35e8d86c1ec0
-
-
-
 
 ## AUTHOR
 KUSHAGRA JOSHI
